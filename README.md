@@ -4,6 +4,18 @@ Mobile app for finding home service specialists and requesting help with househo
 
 The app was built around a simple client flow: choose a service, find a master, contact directly and solve the problem without unnecessary complexity.
 
+
+## Visual preview
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8361eb243668475.6986138850b2c.png" alt="Home Help app overview" width="100%">
+</p>
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e75a27243668475.6986194765328.png" alt="Home Help app screens" width="75%">
+</p>
+
+[View the complete visual case study on Behance](https://www.behance.net/gallery/243668475/Hands-of-the-Master)
+
 ---
 
 ## My role
